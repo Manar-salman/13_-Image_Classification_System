@@ -2,7 +2,7 @@
 # Project 01: Image Classification System | نظام تصنيف الصور
 ## Course: AIAT 122 - Deep Learning | مادة التعلم العميق
 
-**Student Name /Manar Salman
+Student Name /Manar Salman
 
 
 ---
@@ -26,9 +26,9 @@ This project implements a Deep Learning application using Convolutional Neural N
 2. Ensure GPU is enabled (Runtime > Change runtime type).
 3. Run all cells to see the results and the name **Manar Salman** on the charts.
 
-1. افتحي ملف `.ipynb` في Google Colab.
-2. تأكدي من تفعيل المعالج الرسومي (GPU).
-3. شغلي جميع الخلايا لرؤية النتائج واسم **منار سلمان** على الرسومات البيانية.
+1. افتح ملف `.ipynb` في Google Colab.
+2. تأكد من تفعيل المعالج الرسومي (GPU).
+3. شغل جميع الخلايا لرؤية النتائج واسم **منار سلمان** على الرسومات البيانية.
 
 ---
 **Note / ملاحظة:** The data was enhanced using a synthetic data generator [cite: 2026-01-09].
